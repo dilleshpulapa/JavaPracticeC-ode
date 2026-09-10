@@ -2,7 +2,7 @@ package com.logicalstatement;
 
 import java.util.Scanner;
 
-public class Restuaranttems {
+public class RestuarantItems {
 
 	public static void main(String[] args) {
 		System.out.println("!! WELCOME TO GOLD COIN RESTUARANT !!");
